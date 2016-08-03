@@ -1,0 +1,19 @@
+{
+    "name": "kminkler/understrap",
+    "description": "Forked from holger1411/understrap",
+    "keywords": ["wp","wordpress", "underscore", "understrap"],
+    "homepage": "https://github.com/kminkler/understrap",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Keith Minkler",
+            "email": "kminkler@gmail.com",
+            "homepage": "http://www.conversioncrm.com/",
+            "role": "Developer"
+        }
+    ],
+    "type": "wordpress-theme",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
